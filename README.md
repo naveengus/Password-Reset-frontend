@@ -18,24 +18,24 @@ This is the frontend for the password reset application, built with React.js. It
 ## Pages and Routes
 
 1. **\*Signup Page**
-   URL: /signup
-   Allows users to create a new account.
+   - URL: /signup
+   - Allows users to create a new account.
 
-**Login Page**
-URL: /login
-Allows users to log in with their credentials.
+2. **Login Page**
+- URL: /login
+- Allows users to log in with their credentials.
 
-**Forgot Password Page**
-URL: /ForgotPassword
-Allows users to request a password reset by entering their email.
+3. **Forgot Password Page**
+- URL: /ForgotPassword
+- Allows users to request a password reset by entering their email.
 
-**Reset Password Page**
-URL: /ResetPassword
-Allows users to reset their password using the OTP sent to their email.
+4. **Reset Password Page**
+- URL: /ResetPassword
+- Allows users to reset their password using the OTP sent to their email.
 
-**Home Page**
-URL: /home
-The home page, accessible only after login (protected route).
+5. **Home Page**
+- URL: /home
+- The home page, accessible only after login (protected route).
 
 # website
 
