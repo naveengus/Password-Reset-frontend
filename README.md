@@ -39,4 +39,4 @@ This is the frontend for the password reset application, built with React.js. It
 
 # website
 
-- [preview](https://auth-passwordreset.netlify.app/login)
+- [preview](https://auth-passwordreset.netlify.app)
